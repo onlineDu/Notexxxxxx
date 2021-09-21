@@ -1,5 +1,7 @@
 # Markdown使用指南
 
+<div></div>
+
 ## 1.多级标题
 
 总共有六级标题,分别为: 
@@ -11,14 +13,13 @@
 ##### 五级标题 
 ###### 六级标题 
 ```
-
 PS：#和标题名称之间有一个空格
 
-<div style="width:innerWidth;height:innerHeight;background-color:#FFA500;page-break-after:always">
-<body>
-    </body>
-aaaa
+<div id="article">
 </div>
+
+
+
 
 ## 2.列表
 
@@ -39,21 +40,7 @@ aaaa
    2. 列表内容
  ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div style="page-break-after:always"></div>
+<div></div>
 
 ## 3.引用
 
@@ -62,25 +49,7 @@ aaaa
 > 引用的内容
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div style="page-break-after:always"></div>
+<div style="page-break-after:always;height:200px" ></div>
 
 ## 4.字体设置
 
@@ -124,22 +93,6 @@ _需要斜体的问题_
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div style="page-break-after:always"></div>
 
 ## 5.分割线
@@ -149,24 +102,6 @@ _需要斜体的问题_
 ```
 
 <div style="page-break-after:always"></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 6.代码框和代码块
 
@@ -184,20 +119,6 @@ _需要斜体的问题_
 '   ```
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div style="page-break-after:always"></div>
 
 ## 7.列表
@@ -211,20 +132,6 @@ _需要斜体的问题_
 | 李四 | 77 | 女 |
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div style="page-break-after:always"></div>
 
 ## 8.可选框
@@ -233,18 +140,6 @@ _需要斜体的问题_
 - [ ] 可选框后的内容
 - [x] 可选框后的内容
 ```
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <div style="page-break-after:always"></div>
