@@ -22,6 +22,18 @@ git add --all                                # 添加所有的文件
 git add 文件夹名                              # 添加文件夹 
 ```
 
+错误处理：
+
+```
+Error:fatal: not a git repository (or any of the parent directories)
+```
+==>确认git 命令有没有在仓库所在的文件夹执行
+
+```
+fatal: pathspec 'readme.txt' did not match any files
+```
+==>添加某个文件时，该文件必须在当前目录下存在，用ls或者dir命令查看当前目录的文件，看看文件是否存在，或者是否写错了文件名。
+
 ## 3.将修改提交到本地版本库
 
 ```

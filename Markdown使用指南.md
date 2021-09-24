@@ -85,11 +85,16 @@ _需要斜体的问题_
 ```
 *** 需要加粗和斜体的文字***
 ```
+### 设置背景颜色
+
+利用table实现文字背景颜色加载
+
+<table><tr><td bgcolor=blue><font color=Red>颜色背景</font></td></tr></table>
 
 ### 全家福版
 
 ```
-<font face="黑体" color=green size=5>***黑体，绿色，尺寸为5（任意内容）***</font>
+<table><tr><td bgcolor=gray><font face="黑体" color=green size=5>***黑体，绿色，尺寸为5（任意内容）***</font></td></tr></table>
 ```
 
 
